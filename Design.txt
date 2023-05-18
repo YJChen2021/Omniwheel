@@ -1,0 +1,8 @@
+Omni Wheel
+
+--Top Layer --
+T2
+Central Hole M3
+Side Hole M2(screwM2*6)*6
+Carbon
+--Top Layer --
